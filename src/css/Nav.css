@@ -1,0 +1,24 @@
+.navContainer {
+    display: flex;
+    color: black;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.mainNav {
+    font-weight: 800;
+    font-size: 20px;
+}
+
+
+.secondNav {
+    display: flex;
+    justify-content: center;
+}
+
+.secondNav a {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
