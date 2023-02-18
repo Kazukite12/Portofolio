@@ -4,8 +4,10 @@ import Produk1 from "../assets/contoh.png";
 export const data = [
     {
         image : Produk1,
-        tittle : 'wadaw1',
-        description : 'lorem ipsum dolor amet',
+        tittle : 'Verb & Adverb',
+        description : 'Verb & Adverb is mobile webview english learning application based on react SPA.',
+        github : '',
+        preview : ''
     },
     {
         image : Produk1,

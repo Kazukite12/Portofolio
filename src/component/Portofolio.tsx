@@ -5,12 +5,12 @@ import { data } from "./data-portofolio";
 const Portofolio =()=> {
     return(
         <div className="homeContainer">
-            <h2>Portofolio</h2>
+            
             <div className="section-portofolio">
 
                 {data.map((data, index) => {
                     return (
-                    <div key={index} className="card">
+                <div key={index} className="card">
                      <div className="img">
                         <img src={data.image} />
                     </div>
